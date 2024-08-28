@@ -1,0 +1,1007 @@
+{
+    "exam_info": {
+        "exam_code": "AADHI_27",
+        "exam_date": "28-05-2019",
+        "version": "16",
+        "exam_time": "09:00 - 10:30"
+    },
+    "questions": [
+        {
+            "question_no": 1,
+            "question_text": "Eight  friends\u2014  A,  B,  C,  D,  E,  F,  G  and  H  are  sitting  around  a  circular  table  facing  the  centre.  Each  one  of",
+            "options": {
+                "A": "\u0924\u094b\u0000\u0936\u092c\u093e",
+                "C": "\u0938\u0948\u0928\u0938\u0941\u0908",
+                "B": "Onida",
+                "D": "Sony"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 2,
+            "question_text": "B)23/20",
+            "options": {
+                "D": "3/20",
+                "B": "23/20"
+            },
+            "correct_answer": "B (Correct)"
+        },
+        {
+            "question_no": 3,
+            "question_text": "Seven years ago, the ratio of the ages of Ajith and Ganesh was 5 : 7. If the product of their present ages is",
+            "options": {
+                "A": "12 : 13",
+                "C": "15 : 17",
+                "B": "11 : 14",
+                "D": "17 : 15"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 4,
+            "question_text": "Which of the following hormones stimulates milk production after child birth?",
+            "options": {
+                "A": "\u0000\u094b\u0932\u0948\u093f\u0000\u091f\u0928",
+                "C": "\u0000\u094b\u091c\u0947\u093f\u0000\u091f\u0928",
+                "B": "Estrogen",
+                "D": "Androgen"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 5,
+            "question_text": "The chemical formula K SO  represents-",
+            "options": {
+                "A": "\u092a\u094b\u091f\u0948\u0000\u0936\u092f\u092e \u0938\u0000\u092b\u0947 \u091f",
+                "C": "\u092a\u094b\u091f\u0948\u0000\u0936\u092f\u092e \u0928\u093e\u0907\u0000\u0947\u091f",
+                "B": "Potassium chloride",
+                "D": "Aluminium sulphate"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 6,
+            "question_text": "Two buses start from the opposite points of a main road, 150 km apart. The first bus runs for 25 km and takes",
+            "options": {
+                "A": "85 \u0000\u0915\u092e\u0940",
+                "B": "80 km",
+                "D": "75 km",
+                "C": "65 \u0000\u0915\u092e\u0940"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 7,
+            "question_text": "A)Yellow to red",
+            "options": {
+                "C": "\u092a\u0940\u0932\u0947 \u0938\u0947 \u0928\u0940\u0932\u0947",
+                "B": "Yellow to black",
+                "D": "Yellow to green",
+                "A": "\u092a\u0940\u0932\u0947 \u0938\u0947 \u0932\u093e\u0932"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 8,
+            "question_text": "B)346",
+            "options": {
+                "D": "215",
+                "B": "346"
+            },
+            "correct_answer": "C (Correct)"
+        },
+        {
+            "question_no": 9,
+            "question_text": "B)Manipur",
+            "options": {
+                "D": "Nagaland",
+                "A": "\u0000\u092e\u091c\u094b\u0930\u092e",
+                "C": "\u0000\u0000\u092a\u0941\u0930\u093e"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 10,
+            "question_text": "A)Insulin",
+            "options": {
+                "C": "\u0935\u0948\u0938\u094b\u0000\u0947\u0000\u0938\u0928",
+                "A": "\u0907\u0902\u0938\u0941\u0000\u0932\u0928",
+                "B": "\u0911\u0000\u0938\u0940\u091f\u094b\u0000\u0938\u0928",
+                "D": "\u0000\u0932\u0942\u0915\u093e\u0917\u0928"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 11,
+            "question_text": "\u092e\u0948\u0000\u0928\u0940\u0000\u0936\u092f\u092e \u092b\u0000\u0924\u0947 \u0915\u0947  \u091c\u0932\u0928\u0947 \u092a\u0930 \u092c\u0928\u0928\u0947 \u0935\u093e\u0932\u093e \u0938\u092b\u0947 \u0926 \u092a\u093e\u0909\u0921\u0930 \u0000\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?",
+            "options": {
+                "A": "\u092e\u0948\u0000\u0928\u0940\u0000\u0936\u092f\u092e \u0915\u093e\u092c\u0000\u0928\u0947\u091f",
+                "C": "\u092e\u0948\u0000\u0928\u0940\u0000\u0936\u092f\u092e \u0938\u0000\u092b\u0947 \u091f"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 12,
+            "question_text": "In a certain code, 'CORNER' is written as 'GSVRIV'. How can 'CENTRAL' be written in that code?",
+            "options": {
+                "A": "GIRYVEP",
+                "C": "GIRXVEP",
+                "B": "GIRXEVP",
+                "D": "GIRXVPE"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 13,
+            "question_text": "A)Adrenaline",
+            "options": {
+                "C": "\u0915\u0949\u0000\u091f\u0000\u0915\u094b\u0000\u0949\u0000\u092a\u0928",
+                "B": "Norepinephrine",
+                "D": "Cortisol",
+                "A": "\u090f\u0000\u0000\u0928\u0932\u0000\u0928"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 14,
+            "question_text": "When was the first battle of Panipat fought?",
+            "options": {
+                "A": "1556",
+                "C": "1761"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 15,
+            "question_text": "The radius of a circle increases by 5%. What is the percentage increase in its area?",
+            "options": {
+                "A": "10.5%",
+                "C": "25%",
+                "B": "10.25%",
+                "D": "21.5%"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 16,
+            "question_text": "Which of the following is an alloy of copper and zinc?",
+            "options": {
+                "A": "\u0938\u094b\u0000\u0921\u0930",
+                "C": "\u090f\u0932\u0000\u0928\u0915\u094b",
+                "B": "\u092a\u0940\u0924\u0932",
+                "D": "\u0915\u093e\u0902\u0938\u093e"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 17,
+            "question_text": "Which of the following will best complete the relationship given below?",
+            "options": {
+                "A": "NVSQ",
+                "C": "NSQV",
+                "B": "NQSV",
+                "D": "NQVS"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 18,
+            "question_text": "A)Diamond",
+            "options": {
+                "C": "\u0000\u0947\u092b\u093e\u0907\u091f",
+                "B": "Buckministerfullerene",
+                "D": "Iron",
+                "A": "\u0939\u0000\u0930\u093e"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 19,
+            "question_text": "What is the thrust on unit area called?",
+            "options": {
+                "A": "\u0906\u092f\u0924\u0928",
+                "C": "\u0918\u0928\u0000\u0935",
+                "B": "\u092a\u0943\u0000\u0920\u0000\u092f \u0000\u0947\u0000\u092b\u0932",
+                "D": "\u0926\u093e\u092c"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 20,
+            "question_text": "A)V",
+            "options": {
+                "C": "X",
+                "A": "V"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 21,
+            "question_text": "1 is placed to the west of 2, and 3 is placed to the south of 1. What is the direction of 2 with respect to 3?",
+            "options": {
+                "A": "\u092a\u0942\u0935\u0000",
+                "C": "\u0909\u0000\u0924\u0930 \u092a\u0942\u0935\u0000",
+                "B": "South east",
+                "D": "South"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 22,
+            "question_text": "B)Light refraction",
+            "options": {
+                "D": "Light reflection",
+                "A": "\u0000\u0915\u093e\u0936 \u0915\u093e \u0000\u0935\u0000\u0915\u0930\u0923",
+                "C": "\u0000\u0915\u093e\u0936 \u0915\u093e \u0000\u0915\u0000\u0923\u0000\u0928"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 23,
+            "question_text": "A)Shimla",
+            "options": {
+                "C": "\u092e\u0941",
+                "B": "Chennai",
+                "D": "Kolkata",
+                "A": "\u0000\u0936\u092e\u0932\u093e"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 24,
+            "question_text": "Rs.16500  is  split  into  two  fixed  deposits  for  2  years  at  10%  and  12%  Simple  Interest.  If  the  total  interest",
+            "options": {
+                "A": "\u0000.8500",
+                "C": "\u0000.8000",
+                "B": "Rs.10500",
+                "D": "Rs.10000"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 25,
+            "question_text": "B)Sports",
+            "options": {
+                "D": "\u0000\u092d\u093f\u0000\u0924 \u0000\u091a\u0000\u0923",
+                "B": "\u0916\u0947\u0932"
+            },
+            "correct_answer": "Not Answered"
+        },
+        {
+            "question_no": 26,
+            "question_text": "The refractive indices of four substances A, B, C and D are 1.33,1.47, 1.71 and 1.65 respectively. In which",
+            "options": {
+                "A": "B",
+                "C": "D",
+                "B": "C",
+                "D": "A"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 27,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "A (Wrong)"
+        },
+        {
+            "question_no": 28,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "B (Correct)"
+        },
+        {
+            "question_no": 29,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "D (Wrong)"
+        },
+        {
+            "question_no": 30,
+            "question_text": "How many electrons are there in one Coloumb of charge?",
+            "options": {
+                "A": "625 x 10  \u0907\u0932\u0947\u0000\u0000\u0949\u0928",
+                "C": "6.25 x 10  \u0907\u0932\u0947\u0000\u0000\u0949\u0928",
+                "B": "0.625 x 10  electrons",
+                "D": "62.5 x 10  electrons"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 31,
+            "question_text": "If 20 Coulombs of charge passes a point in a circuit in 1 second, what is the value of the current flowing?",
+            "options": {
+                "A": "20 \u090f\u093f\u0000\u092a\u092f\u0930",
+                "C": "10 \u090f\u093f\u0000\u092a\u092f\u0930",
+                "B": "5 Ampere",
+                "D": "15 Ampere"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 32,
+            "question_text": "Two  pipes  P  and  Q  can  fill  a  tank  in  40  minutes  and  30  minutes  respectively.  Both  pipes  are  opened",
+            "options": {
+                "A": "16 \u0000\u092e\u0928\u091f 40 \u0938\u0947\u0915\u0902 \u0921",
+                "B": "16 minutes",
+                "C": "15 \u0000\u092e\u0928\u091f",
+                "D": "15 minutes 20 seconds"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 33,
+            "question_text": "Top",
+            "options": {
+                "C": "\u0939\u0949\u0915\u0000",
+                "A": "\u092c\u0948\u0921\u0000\u092e\u0902\u091f\u0928"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 34,
+            "question_text": "What is the total number of members nominated by the President to the Lok Sabha and the Rajya Sabha?",
+            "options": {
+                "A": "12",
+                "C": "14",
+                "B": "18",
+                "D": "16"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 35,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "C (Correct)"
+        },
+        {
+            "question_no": 36,
+            "question_text": "Find the area of the card board that is required to make a box of size 10 cm \u00d7 8 cm \u00d7 4 cm.",
+            "options": {
+                "A": "412 \u0938\u0000\u091f\u0000\u092e\u0940\u091f\u0930",
+                "C": "304 \u0938\u0000\u091f\u0000\u092e\u0940\u091f\u0930",
+                "B": "388 cm",
+                "D": "488 cm"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 37,
+            "question_text": "If the manufacturer gains 10%, the wholesale dealer gains 15% and the retailer gains 25%, then find the cost",
+            "options": {
+                "A": "Rs.800",
+                "C": "\u0000.850",
+                "B": "Rs.750",
+                "D": "Rs.900"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 38,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "B (Wrong)"
+        },
+        {
+            "question_no": 39,
+            "question_text": "In a certain code, 'gri chri' means 'brand new', 'gyp twoh' means 'very old', 'gri bur twoh' means 'old and new'",
+            "options": {
+                "A": "twoh deh",
+                "C": "chri gri",
+                "B": "deh gyp",
+                "D": "gri deh"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 40,
+            "question_text": "B)",
+            "options": {
+                "D": "",
+                "C": "",
+                "B": ""
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 41,
+            "question_text": "A)85",
+            "options": {
+                "C": "100",
+                "B": "50",
+                "D": "60",
+                "A": "85"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 42,
+            "question_text": "In how many years will a certain sum of money double itself at 5% Simple Interest?",
+            "options": {
+                "A": "18",
+                "C": "22",
+                "B": "15",
+                "D": "20"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 43,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "D (Correct)"
+        },
+        {
+            "question_no": 44,
+            "question_text": "SSC Adda247Engineers Adda247\fIn this question, two statements are given followed by two conclusions. Choose the conclusion(s) which best",
+            "options": {
+                "A": "\u0926\u094b\u0928\u0000 \u0000\u0928\u0000\u0915\u0937\u0000 I \u0914\u0930 II \u0909\u092a\u092f\u0941\u0000\u0924 \u0939\u0000\u0964",
+                "B": "\u0915\u0947 \u0935\u0932 \u0000\u0928\u0000\u0915\u0937\u0000 I \u0909\u092a\u092f\u0941\u0000\u0924 \u0939\u0948\u0964",
+                "C": "\u0915\u0947 \u0935\u0932 \u0000\u0928\u0000\u0915\u0937\u0000 II \u0909\u092a\u092f\u0941\u0000\u0924 \u0939\u0948\u0964",
+                "D": "Neither conclusion I nor II follows"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 45,
+            "question_text": "22 years. How old is the father?",
+            "options": {
+                "A": "36 \u0935\u0937\u0000",
+                "C": "38 \u0935\u0937\u0000",
+                "B": "40 years",
+                "D": "30 years"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 46,
+            "question_text": "Top",
+            "options": {
+                "C": "",
+                "A": "",
+                "B": "",
+                "D": ""
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 47,
+            "question_text": "Top",
+            "options": {
+                "C": "",
+                "A": "",
+                "B": "",
+                "D": ""
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 48,
+            "question_text": "A)",
+            "options": {
+                "C": "",
+                "B": "",
+                "D": ""
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 49,
+            "question_text": "B)All of the options",
+            "options": {
+                "D": "\u0926\u094b \u0938\u0947 \u0924\u0940\u0928 \u0915\u094b\u0000\u0936\u0915\u093e \u0915\u0947  \u092c\u0930\u093e\u092c\u0930 \u092e\u094b\u091f\u0000",
+                "B": "\u0907\u0928\u092e\u0000 \u0938\u0947 \u0938\u092d\u0940"
+            },
+            "correct_answer": "Not Answered"
+        },
+        {
+            "question_no": 50,
+            "question_text": "What is the normal pulse rate of humans?",
+            "options": {
+                "A": "2 \u092c\u0940\u091f \u0000\u0000\u0924 \u0938\u0947\u0915\u0902 \u0921",
+                "C": "97 \u092c\u0940\u091f \u0000\u0000\u0924 \u0000\u092e\u0928\u091f",
+                "B": "80-90 beats per minute",
+                "D": "70-80 beats per minute"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 51,
+            "question_text": "Which of the following is known as 'Dry ice?'",
+            "options": {
+                "A": "\u0000\u0935 \u0915\u093e\u092c\u0000\u0928 \u0921\u093e\u0908\u0911\u0000\u0938\u093e\u0907\u0921",
+                "C": "\u0915\u093e\u092c\u0000\u0928 \u092e\u094b\u0928\u094b\u0911\u0000\u0938\u093e\u0907\u0921",
+                "B": "Solid carbon dioxide",
+                "D": "Gaseous carbon dioxide"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 52,
+            "question_text": "A)Boron",
+            "options": {
+                "C": "Sulphur",
+                "B": "\u0000\u0932\u094b\u0930\u0000\u0928",
+                "D": "Iron",
+                "A": "\u092c\u094b\u0930\u093e\u0928"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 53,
+            "question_text": "The variance of 5 values is 16. If each value is doubled, find the standard deviation of the new value.",
+            "options": {
+                "A": "8",
+                "C": "10",
+                "B": "16",
+                "D": "4"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 54,
+            "question_text": "The sum of the digits of a two-digit number is 15 and the difference between the digits is 3. What is the two-",
+            "options": {
+                "A": "96",
+                "C": "128",
+                "B": "78",
+                "D": "69"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 55,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "A (Correct)"
+        },
+        {
+            "question_no": 56,
+            "question_text": "B)Niacin",
+            "options": {
+                "D": "Folic acid",
+                "A": "\u090f\u0000\u0915\u0949\u0000\u092c\u0000\u0915 \u090f\u0000\u0938\u0921",
+                "C": "\u0930\u093e\u0907\u092c\u094b\u0000\u0932\u0947\u0000\u0935\u0928"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 57,
+            "question_text": "Two motorists travelling in opposite directions meet at some point in between. After this they take 9 and 16",
+            "options": {
+                "A": "5 : 3",
+                "B": "5 : 4",
+                "D": "4 : 3",
+                "C": "4 : 7"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 58,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "D (Correct)"
+        },
+        {
+            "question_no": 59,
+            "question_text": "A)",
+            "options": {
+                "C": "",
+                "A": "",
+                "B": "",
+                "D": ""
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 60,
+            "question_text": "A)11",
+            "options": {
+                "C": "12",
+                "B": "23",
+                "D": "22",
+                "A": "11"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 61,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "C (Wrong)"
+        },
+        {
+            "question_no": 62,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "C (Correct)"
+        },
+        {
+            "question_no": 63,
+            "question_text": "Which of the following is the most abundant source of iron?",
+            "options": {
+                "A": "\u0905\u0902\u0921\u0947",
+                "C": "Milk",
+                "B": "\u0939\u0930\u0000 \u0938\u093f\u0000\u091c\u092f\u093e\u0902",
+                "D": "Beans"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 64,
+            "question_text": "A  pipe  can  fill  a  cistern  in  20  minutes,  but  an  outlet  can  empty  it  in  28  minutes.  When  both  the  pipes  are",
+            "options": {
+                "A": "96 \u0000\u092e\u0928\u091f",
+                "C": "56 \u0000\u092e\u0928\u091f",
+                "B": "72 minutes",
+                "D": "70 minutes"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 65,
+            "question_text": "What is the force required to keep the object sliding on a surface with the same speed?",
+            "options": {
+                "A": "\u0938\u092a\u0000 \u0918\u0937\u0000\u0923",
+                "C": "\u0932\u094b\u091f\u0000\u0928\u0915 (\u0930\u094b\u0000\u0932\u0902\u0917) \u0918\u0937\u0000\u0923",
+                "B": "Static friction",
+                "D": "Contact friction"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 66,
+            "question_text": "A)",
+            "options": {
+                "C": "",
+                "B": "",
+                "D": ""
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 67,
+            "question_text": "A)RBI",
+            "options": {
+                "C": "SEBI",
+                "B": "IMF",
+                "D": "NABARD",
+                "A": "RBI"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 68,
+            "question_text": "A)Neutral",
+            "options": {
+                "C": "\u0907\u0928\u092e\u0000 \u0938\u0947 \u0938\u092d\u0940",
+                "A": "\u0909\u0926\u093e\u0938\u0940\u0928"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 69,
+            "question_text": "With which game is Bhagyashree Thipsay associated?",
+            "options": {
+                "A": "\u0924\u0948\u0930\u093e\u0915\u0000",
+                "C": "\u092b\u0941 \u091f\u092c\u0949\u0932"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 70,
+            "question_text": "Perfect square numbers ending with '1' will have their square roots ending in _____________.",
+            "options": {
+                "A": "\u0915\u0947 \u0935\u0932 9",
+                "B": "1 only",
+                "D": "3",
+                "C": "1 \u092f\u093e 9"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 71,
+            "question_text": "Which political leader was popularly known as 'Chacha?'",
+            "options": {
+                "A": "\u0938\u0941\u092d\u093e\u0937 \u091a\u0902\u0000 \u092c\u094b\u0938",
+                "C": "\u092c\u093e\u0932 \u0917\u0902\u0917\u093e\u0927\u0930 \u0000\u0924\u0932\u0915",
+                "B": "Jawaharlal Nehru",
+                "D": "Mahatma Gandhi"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 72,
+            "question_text": "B)29",
+            "options": {
+                "D": "14",
+                "A": "39",
+                "C": "20"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 73,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "A (Correct)"
+        },
+        {
+            "question_no": 74,
+            "question_text": "Top",
+            "options": {
+                "C": "",
+                "A": "",
+                "B": "",
+                "D": ""
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 75,
+            "question_text": "leave?",
+            "options": {
+                "A": "24",
+                "C": "25",
+                "B": "20",
+                "D": "32"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 76,
+            "question_text": "B)Pancreatic juice",
+            "options": {
+                "D": "Saliva",
+                "A": "\u0906\u092e\u093e\u0936\u092f \u0930\u0938",
+                "C": "\u0906\u0902\u0000 \u0930\u0938"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 77,
+            "question_text": "If (10.24 \u00d7 10.24) - (10.24 \u00d7 A) + (0.24 \u00d7 0.24) is a perfect square, then find the value of 'A'.",
+            "options": {
+                "A": "0.24",
+                "C": "0.48",
+                "B": "0.36",
+                "D": "0.12"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 78,
+            "question_text": "In which part of the human body would you find the smallest bone?",
+            "options": {
+                "A": "\u0918\u0941\u091f\u0928\u0947",
+                "C": "\u0915\u093e\u0928",
+                "B": "Fingers",
+                "D": "Nose"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 79,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "C (Correct)"
+        },
+        {
+            "question_no": 80,
+            "question_text": "Profit percentage earned by selling an article for Rs.1920 is equal to the loss percentage when the article is",
+            "options": {
+                "A": "\u0000.2060",
+                "C": "\u0000.2080",
+                "B": "Rs.2040",
+                "D": "Rs.2000"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 81,
+            "question_text": "What  is  the  area  of  the  sector  covered  by  the  hour-hand  of  a  clock  while  moving  from  the  number  12  to",
+            "options": {
+                "A": "70 \u0935\u0917\u0000 \u0938\u0947\u092e\u0940",
+                "C": "17 \u0935\u0917\u0000 \u0938\u0947\u092e\u0940",
+                "B": "38.5 cm",
+                "D": "35 cm"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 82,
+            "question_text": "What is the frequency range of ultrasound?",
+            "options": {
+                "A": "20 Hz \u0914\u0930 20 kHz \u0915\u0947  \u092c\u0940\u091a",
+                "B": "200 Hz \u0914\u0930 2000 Hz \u0915\u0947  \u092c\u0940\u091a",
+                "C": "Below 20 Hz",
+                "D": "Above 20 kHz"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 83,
+            "question_text": "How much work is done when one Coulomb charge moves against a potential difference of 1 Volt?",
+            "options": {
+                "A": "1 \u0935\u093e\u091f",
+                "C": "1 \u0915\u0942 \u0932\u093e\u092e",
+                "B": "1 Ampere",
+                "D": "1 Joule"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 84,
+            "question_text": "What is the important use of coke?",
+            "options": {
+                "A": "\u0911\u0000\u0938\u0940\u0915\u0930\u0923 \u0905\u0000\u092d\u0915\u092e\u0000\u0915 \u0915\u0947  \u0000\u092a \u092e\u0000",
+                "B": "\u0914\u0000\u092f\u094b\u0000\u0917\u0915 \u092c\u0949\u092f\u0932\u0930\u0000 \u0915\u0947  \u0000\u0932\u090f \u0000\u0927\u0928 \u0915\u0947  \u0000\u092a \u092e\u0000",
+                "C": "\u0918\u0930\u0947\u0932\u0942 \u0913\u0935\u0928 \u092e\u0000 \u0000\u0927\u0928 \u0915\u0947  \u0000\u092a \u092e\u0000",
+                "D": "As a reducing agent in the extraction of metals"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 85,
+            "question_text": "will be father's age 6 years hence?",
+            "options": {
+                "A": "40 \u0935\u0937\u0000",
+                "C": "50 \u0935\u0937\u0000",
+                "B": "42 years",
+                "D": "48 years"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 86,
+            "question_text": "Ten observations written in descending order are 45, 34, 32, 30, 2x - 13, x + 1, 17, 15, 14 and 8. If the median",
+            "options": {
+                "A": "15",
+                "C": "20",
+                "B": "18",
+                "D": "12"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 87,
+            "question_text": "Top",
+            "options": {
+                "A": "214",
+                "C": "215"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 88,
+            "question_text": "B)Skin",
+            "options": {
+                "D": "\u092f\u0915\u0943 \u0924",
+                "B": "\u0000\u0935\u091a\u093e"
+            },
+            "correct_answer": "B (Correct)"
+        },
+        {
+            "question_no": 89,
+            "question_text": "In a shooting test, the probabilities of hitting the target are 1/2 for A, 2/3 for B and 3/4 for C. If they fire at the",
+            "options": {
+                "A": "1/4",
+                "C": "1/6",
+                "B": "2/3",
+                "D": "3/8"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 90,
+            "question_text": "Read the following information carefully and answer the question given below. ",
+            "options": {
+                "A": "W",
+                "C": "Y",
+                "B": "X",
+                "D": "V"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 91,
+            "question_text": "",
+            "options": {},
+            "correct_answer": "D (Correct)"
+        },
+        {
+            "question_no": 92,
+            "question_text": "B)CE",
+            "options": {
+                "D": "EG",
+                "B": "CE"
+            },
+            "correct_answer": "C (Correct)"
+        },
+        {
+            "question_no": 93,
+            "question_text": "Which of the following defence satellites of India was launched in 2019?",
+            "options": {
+                "A": "GSAT-6A",
+                "C": "IRNSS-1I",
+                "B": "EMISAT",
+                "D": "RESOURCESAT-2A"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 94,
+            "question_text": "Top",
+            "options": {
+                "B": "\u0909\u0928\u0915\u0947  \u0939\u0930 10 \u0915\u0000 \u0918\u093e\u0924\u0000 \u0915\u0947  \u0000\u092a \u092e\u0000 \u0939\u094b\u0924\u0947 \u0939\u0000\u0964",
+                "C": "\u0909\u0000\u0939\u0000 \u0938\u0902\u0000\u092f\u093e \u0930\u0947\u0916\u093e \u092a\u0930 \u0000\u0928\u0000\u0000\u092a\u0924 \u0928\u0939\u0000\u0902 \u0000\u0915\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e\u0964",
+                "D": "\u0909\u0928\u0915\u0947  \u0905\u0902\u0936 \u0939\u0930\u0000 \u0938\u0947 \u092c\u095c\u0947 \u0939\u094b\u0924\u0947 \u0939\u0000 \u0964",
+                "A": "\u0909\u0928\u0915\u0947  \u0939\u0930 10, 100, 1000 \u0906\u0000\u0926 \u0915\u094b \u091b\u094b\u095c\u0915\u0930 \u0939\u094b\u0924\u0947 \u0939\u0000\u0964"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 95,
+            "question_text": "B)9",
+            "options": {
+                "D": "3",
+                "B": "9"
+            },
+            "correct_answer": "A (Correct)"
+        },
+        {
+            "question_no": 96,
+            "question_text": "Who among the following won gold medal at Makran Cup boxing in Iran, 2019?",
+            "options": {
+                "A": "\u092e\u0928\u0940\u0937 \u0915\u094c\u0000\u0936\u0915",
+                "C": "\u0926\u0000\u092a\u0915 \u0000\u0938\u0902\u0939",
+                "B": "Duryodhan Singh Negi",
+                "D": "Lalitha Prasad"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_no": 97,
+            "question_text": "The moon revolves around which celestial body?",
+            "options": {
+                "A": "\u0927\u0942\u092e\u0915\u0947 \u0924\u0941(Comet)",
+                "C": "\u0909\u0000\u0915\u093e(Meteor)"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_no": 98,
+            "question_text": "Two cones are such that the ratio of their volumes is 1 : 10 and ratio of their heights is 2 : 5. What is the ratio",
+            "options": {
+                "A": "5 : 2",
+                "C": "2 : 1",
+                "B": "1 : 2",
+                "D": "7 : 25"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_no": 99,
+            "question_text": "logically.",
+            "options": {
+                "A": "\u0915\u0947 \u0935\u0932 \u0000\u0928\u0000\u0915\u0937\u0000 I \u0909\u092a\u092f\u0941\u0000\u0924 \u0939\u0948\u0964",
+                "C": "\u0915\u0947 \u0935\u0932 \u0000\u0928\u0000\u0915\u0937\u0000 III \u0909\u092a\u092f\u0941\u0000\u0924 \u0939\u0948\u0964",
+                "B": "Only conclusion II is true",
+                "D": "Only conclusions II and III are true"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_no": 100,
+            "question_text": "A)CITXOE",
+            "options": {
+                "C": "CITOXE",
+                "B": "CIXOTE",
+                "D": "CXOTLE",
+                "A": "CITXOE"
+            },
+            "correct_answer": "C"
+        }
+    ]
+}
